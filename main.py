@@ -6,3 +6,4 @@ for shop, products in dict_of_products.items():
     x: int = len(dict_of_products[shop])
     y = y + x
 print(f"W sumie kupuję {y} produktów")
+print("Hallo World!!!")
